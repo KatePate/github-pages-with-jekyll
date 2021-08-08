@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Kate Pate's West Coast, Best Coast Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Thanks for stopping by! I'm here to share some information about my favorite West Coast wines and hiking spots
